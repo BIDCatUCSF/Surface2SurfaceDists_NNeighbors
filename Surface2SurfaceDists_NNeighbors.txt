@@ -1,0 +1,9 @@
+    <CustomTools>
+      <SurpassTab>
+        <SurpassComponent name="bpSurfaces">
+          <Item name="Surface2SurfaceDists_NNeighbors" icon="Matlab" tooltip="Find spots close to surface.">
+            <Command>MatlabExe::8.4::Surface2SurfaceDists_NNeighbors %i</Command>
+          </Item>
+        </SurpassComponent>
+      </SurpassTab>
+    </CustomTools>
